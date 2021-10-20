@@ -5,4 +5,4 @@
 请下载release WebLogin V2.0
 
 #### 注意
-使用前请将func/settings.py中的用户名修改为自己的登录账号！
+使用前请先运行设置用户信息.exe!
